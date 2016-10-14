@@ -1,6 +1,6 @@
 # Programming problems - In Progress
 
-This respository is a collection of the competitive programming problems implemented in Python2.7. Each problem is followed by an explanation of how I approached the problems. 
+This respository is a collection of the programming problems implemented in Python2.7.
 
 ##Index
 * [Algorithms](algorithms/README.md)
@@ -8,6 +8,6 @@ This respository is a collection of the competitive programming problems impleme
 
 
 ##Contributing
-Please refer to our [contribution guidelines](CONTRIBUTING.md) before adding your valueable contributions.
+Please refer to our [contribution guidelines](CONTRIBUTING.md) before adding your valuable contributions.
 
 
