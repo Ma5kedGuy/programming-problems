@@ -10,3 +10,10 @@ Output Format
 Print the absolute difference between the two sums of the matrix's diagonals as a single integer.
 
 """
+
+N = int(raw_input())
+total = 0
+for i in range(N):
+    row = raw_input().split()
+    total += int(row[i])-int(row[-(i+1)])
+print(abs(total))
