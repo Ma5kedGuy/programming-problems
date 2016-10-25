@@ -1,6 +1,25 @@
-# HackerRank Problems on Algorithms
+#Diagonal Difference
 
-* [Simple Array Sum] (#simple-array)
-* [Compare the Triplets] (#compare-the-triplets)
-* [A Very Big Sum] (#a-very-big-sum)
-* [Diagonal Difference] (#diagonal-difference)
+##Problem Statement
+Given a square matrix of size N x N, calculate the absolute difference between the sums of its diagonals.
+
+##Input Format
+The first line contains a single integer, N. The next  lines denote the matrix's rows, with each line containing N space-separated integers describing the columns.
+
+##Output Format
+Print the absolute difference between the two sums of the matrix's diagonals as a single integer.
+
+##Sample Input
+
+```
+3
+11 2 4
+4 5 6
+10 8 -12
+```
+
+##Sample Output
+
+```
+15
+```

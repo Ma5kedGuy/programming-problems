@@ -1,6 +1,6 @@
 # HackerRank Problems on Algorithms
 
 * [Simple Array Sum] (SimpleArraySum/README.md)
-* [Compare the Triplets] (#compare-the-triplets)
-* [A Very Big Sum] (#a-very-big-sum)
-* [Diagonal Difference] (#diagonal-difference)
+* [Compare the Triplets] (CompareTheTriplets/README.md)
+* [A Very Big Sum] (AVeryBigSum/README.md)
+* [Diagonal Difference] (DiagonalDifference/README.md)
