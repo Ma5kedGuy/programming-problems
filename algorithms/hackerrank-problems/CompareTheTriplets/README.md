@@ -14,8 +14,8 @@ If a<sub>i</sub> = b<sub>i</sub>, then neither person receives a point.
 Given A and B, can you compare the two challenges and print their respective comparison points?
 
 ###Input format
-The first line contains 3 space-separated integers, a0, a1, and a2, describing the respective values in triplet A. 
-The second line contains 3 space-separated integers, b0, b1, and b2, describing the respective values in triplet B.
+The first line contains 3 space-separated integers, a<sub>0</sub>, a<sub>1</sub>, and a<sub>2</sub>, describing the respective values in triplet A. 
+The second line contains 3 space-separated integers, b<sub>0</sub>, b<sub>1</sub>, and b<sub>2</sub>, describing the respective values in triplet B.
 
 ####Constraints
 
