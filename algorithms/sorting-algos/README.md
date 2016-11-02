@@ -1,3 +1,3 @@
-#Algorithms
+#Sorting Algorithms
 
-##Insertion Sort
+* [Insertion Sort](InsertionSort/README.md)
