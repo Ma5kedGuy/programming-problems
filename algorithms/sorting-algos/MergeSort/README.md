@@ -1,1 +1,1 @@
-Use recursion and wikk modify the data
+Use recursion and modify the input data directly
