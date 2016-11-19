@@ -8,3 +8,5 @@
 * [Staircase] (Staircase/README.md)
 * [Time Conversion] (TimeConversion/README.md)
 * [Circular Array Rotation] (CircularArrayRotation/README.md)
+* [Mini-Max Sum] (MiniMaxSum/README.md)
+* [Beautiful Day At the Movies] (Beautiful Day At the Movies/README.md)
